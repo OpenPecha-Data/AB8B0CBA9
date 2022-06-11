@@ -1,0 +1,34 @@
+segment_sources:
+  I4C85B4AF:
+    type: origin_type
+    relation: translation
+    language: en
+  IE19BE9AE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9c2846ce5a8844c4be292be8ed0e7d14:
+    I4C85B4AF: 83c7aa79e5b84c4c8d38337e620cdaeb
+    IE19BE9AE: feceeead88ed40098ee30f9da32dae8c
+  dc9174e1535d483d94c7d78b0dae58d5:
+    I4C85B4AF: 30fdd4a4f0834d4ab6a7f08cdcc2e044
+    IE19BE9AE: d68b19549a7644cb8db94f2c1bc85aca
+  f5ddd46139c84d8eadffb3a1e2be2286:
+    I4C85B4AF: 883ec862d6314f7b80e3c47a9dabd9a1
+    IE19BE9AE: d364468f64934aa18f98256c43069e4a
+  c472ac2888fe4116bf8668e3c97c662b:
+    I4C85B4AF: 319f464df285420dbb0fe4a1120edcd3
+    IE19BE9AE: 864d2350bdc64dc1b01bceda77753ad8
+  3089d1b9e5b941a98f2ac8be45c8dcbc:
+    I4C85B4AF: c264602724884f39928a6dd7471ab7c4
+    IE19BE9AE: 64f1ea3b249141a59a732bc38bf3602b
+  78ebcb87f0c648e1a40649cc58a73658:
+    I4C85B4AF: 790f817aa8804f91866e87656f423121
+    IE19BE9AE: f1ce4cb5ca8c477181084bbb5143e8da
+  47225e72ea244121ba690c9db429e6df:
+    I4C85B4AF: 047db3b262cd4146a790f10c60ed9a84
+    IE19BE9AE: bfb62235fec146c8b4575295869562d8
+  3ce2d76d5fe04ed1816a3cb19b6ac128:
+    I4C85B4AF: c7cb92e51f534a719ccdaa1c2e9a1f70
+    IE19BE9AE: 9cf7c5cde4954bc29afcc37e38186a24
